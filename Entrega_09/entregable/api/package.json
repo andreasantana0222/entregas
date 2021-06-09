@@ -1,0 +1,11 @@
+{
+  "name": "entrega_08v2",
+  "version": "1.0.0",
+  "description": "Prueba de uso de libreria NPM",
+  "main": "productos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea Santana",
+  "license": "ISC"
+}
